@@ -36,5 +36,5 @@ const inputMinusculo = input.toLowerCase(); //transforma tudo em letra minuscula
 console.log(cidade === inputMinusculo); // true
 
 const senha = "minhaSenha123" //quantidade de caractere
-console.log(senha.length) // 13 caracteres
+console.log(senha.length) // 13 caracteres aaaaaaaaa
 
